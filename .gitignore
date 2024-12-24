@@ -1,0 +1,5 @@
+#Ignore unnecessary files
+*.elc
+.cache/
+.sessions/
+.env/
